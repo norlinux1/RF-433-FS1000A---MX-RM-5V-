@@ -10,6 +10,7 @@
  *which can be found at http://www.gnu.org/licenses/gpl.txt
  */
 
+/*MCU ATmega8 - 8 Mhz*/
 
 #include <avr/io.h>
 #include <util/delay.h>
